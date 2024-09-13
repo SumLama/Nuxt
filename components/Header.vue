@@ -1,5 +1,5 @@
 <script setup>
-
+import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 </script>
 <template>
     <ul class="flex justify-center gap-12 text-lg text-teal-50 cursor-pointer py-2  ">
